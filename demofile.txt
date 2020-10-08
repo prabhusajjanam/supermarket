@@ -1,6 +1,6 @@
 Super market store
 products
-1) Apple
-2) Phone
-3) Book
+1) Fruits
+2) Iphone
+3) eBook
 
